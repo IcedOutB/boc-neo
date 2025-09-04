@@ -439,6 +439,19 @@
       "beaconPassive": ["minimap/beaconPassive", 0, 0, false, true, true]
     }
   },
+   "minimapStation": {
+     "Eic": { "path": "stations/minimap/baseEic", "end": 0, "start": 0, "isWebp": false, "preload": true, "unload": true, "isSingleFile": true, "holdImage": true, "customExtension": null },
+     "Mmo": { "path": "stations/minimap/baseMmo", "end": 0, "start": 0, "isWebp": false, "preload": true, "unload": true, "isSingleFile": true, "holdImage": true, "customExtension": null },
+     "Vru": { "path": "stations/minimap/baseVru", "end": 0, "start": 0, "isWebp": false, "preload": true, "unload": true, "isSingleFile": true, "holdImage": true, "customExtension": null },
+     "Low": { "path": "stations/minimap/baseLow", "end": 0, "start": 0, "isWebp": false, "preload": true, "unload": true, "isSingleFile": true, "holdImage": true, "customExtension": null },
+     "EicAdvanced": { "path": "stations/minimap/baseEicAdvanced", "end": 0, "start": 0, "isWebp": false, "preload": true, "unload": true, "isSingleFile": true, "holdImage": true, "customExtension": null },
+     "MmoAdvanced": { "path": "stations/minimap/baseMmoAdvanced", "end": 0, "start": 0, "isWebp": false, "preload": true, "unload": true, "isSingleFile": true, "holdImage": true, "customExtension": null },
+     "Saturn": { "path": "stations/minimap/baseSaturn", "end": 0, "start": 0, "isWebp": false, "preload": true, "unload": true, "isSingleFile": true, "holdImage": true, "customExtension": null },
+     "SaturnAdvanced": { "path": "stations/minimap/baseSaturnAdvanced", "end": 0, "start": 0, "isWebp": false, "preload": true, "unload": true, "isSingleFile": true, "holdImage": true, "customExtension": null },
+     "Saturn1Advanced": { "path": "stations/minimap/baseSaturn1Advanced", "end": 0, "start": 0, "isWebp": false, "preload": true, "unload": true, "isSingleFile": true, "holdImage": true, "customExtension": null },
+     "Pirates": { "path": "stations/minimap/basePirates", "end": 0, "start": 0, "isWebp": false, "preload": true, "unload": true, "isSingleFile": true, "holdImage": true, "customExtension": null },
+     "VruAdvanced": { "path": "stations/minimap/baseVruAdvanced", "end": 0, "start": 0, "isWebp": false, "preload": true, "unload": true, "isSingleFile": true, "holdImage": true, "customExtension": null }
+  },
   "ggGifer": {
     "0": ["ggGifer/0", 21, 1, true],
     "1": ["ggGifer/1", 21, 1, true],
@@ -587,7 +600,11 @@
     "2": ["lensflares/lensflare2", 0, 0],
     "3": ["lensflares/lensflare3", 0, 0]
   },
-  "lenses": {},
+  "lenses": {
+    "1": ["lensflares/1/lens", 5, 1, true],
+    "2": ["lensflares/2/lens", 5, 1, true],
+    "3": ["lensflares/3/lens", 5, 1, true]
+  },
   "oa": {},
   "robots": {
     "0": ["robots/robot0", 1, 0],
