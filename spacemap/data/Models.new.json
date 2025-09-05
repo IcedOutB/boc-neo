@@ -3604,7 +3604,7 @@
             0
         ]
     },
-    "minimap": {
+ "minimap": {
         "dots": {
             "pal": {
                 "path": "minimap/pal",
@@ -7003,8 +7003,8 @@
         ],
         "10": {
             "path": "collectables_atlas/spacecupBox",
-            "end": 24,
-            "start": 1,
+            "end": 23,
+            "start": 0,
             "isWebp": false,
             "preload": false,
             "unload": true,
@@ -7014,8 +7014,8 @@
         },
         "11": {
             "path": "collectables_atlas/goldBoxSpecial",
-            "end": 20,
-            "start": 1,
+            "end": 19,
+            "start": 0,
             "isWebp": false,
             "preload": false,
             "unload": true,
@@ -7025,8 +7025,8 @@
         },
         "13": {
             "path": "collectables_atlas/cobalt",
-            "end": 22,
-            "start": 1,
+            "end": 21,
+            "start": 0,
             "isWebp": false,
             "preload": false,
             "unload": true,
@@ -7036,8 +7036,8 @@
         },
         "14": {
             "path": "collectables_atlas/nickel",
-            "end": 26,
-            "start": 1,
+            "end": 25,
+            "start": 0,
             "isWebp": false,
             "preload": false,
             "unload": true,
@@ -7047,8 +7047,8 @@
         },
         "15": {
             "path": "collectables_atlas/palladium",
-            "end": 22,
-            "start": 1,
+            "end": 21,
+            "start": 0,
             "isWebp": false,
             "preload": false,
             "unload": true,
@@ -7058,8 +7058,8 @@
         },
         "16": {
             "path": "collectables_atlas/ree",
-            "end": 26,
-            "start": 1,
+            "end": 25,
+            "start": 0,
             "isWebp": false,
             "preload": false,
             "unload": true,
@@ -7069,8 +7069,8 @@
         },
         "17": {
             "path": "collectables_atlas/selenite",
-            "end": 26,
-            "start": 1,
+            "end": 25,
+            "start": 0,
             "isWebp": false,
             "preload": false,
             "unload": true,
@@ -7080,8 +7080,8 @@
         },
         "18": {
             "path": "collectables_atlas/pumpkin",
-            "end": 26,
-            "start": 1,
+            "end": 25,
+            "start": 0,
             "isWebp": false,
             "preload": false,
             "unload": true,
@@ -7091,8 +7091,8 @@
         },
         "19": {
             "path": "collectables_atlas/jackolantern",
-            "end": 51,
-            "start": 1,
+            "end": 50,
+            "start": 0,
             "isWebp": false,
             "preload": false,
             "unload": true,
@@ -7102,8 +7102,8 @@
         },
         "20": {
             "path": "collectables_atlas/prismium",
-            "end": 38,
-            "start": 1,
+            "end": 37,
+            "start": 0,
             "isWebp": false,
             "preload": false,
             "unload": true,
@@ -7113,8 +7113,8 @@
         },
         "21": {
             "path": "collectables_atlas/christmasBox",
-            "end": 31,
-            "start": 1,
+            "end": 30,
+            "start": 0,
             "isWebp": false,
             "preload": false,
             "unload": true,
@@ -7168,8 +7168,8 @@
         },
         "26": {
             "path": "collectables_atlas/pirateBox",
-            "end": 61,
-            "start": 1,
+            "end": 60,
+            "start": 0,
             "isWebp": false,
             "preload": false,
             "unload": true,
@@ -7181,8 +7181,8 @@
     "beams": {
         "0": {
             "path": "beams_atlas/beam",
-            "end": 15,
-            "start": 1,
+            "end": 14,
+            "start": 0,
             "isWebp": false,
             "preload": false,
             "unload": true,
@@ -7194,8 +7194,8 @@
     "repairBeam": {
         "0": {
             "path": "repairBeam_atlas/robotRepairBeam",
-            "end": 44,
-            "start": 1,
+            "end": 43,
+            "start": 0,
             "isWebp": false,
             "preload": false,
             "unload": true,
@@ -7205,8 +7205,8 @@
         },
         "1": {
             "path": "repairBeam_atlas/robotRepairBeamAdvanced",
-            "end": 44,
-            "start": 1,
+            "end": 43,
+            "start": 0,
             "isWebp": false,
             "preload": false,
             "unload": true,
@@ -7216,8 +7216,8 @@
         },
         "2": {
             "path": "repairBeam_atlas/robotRepairBeamBattle",
-            "end": 44,
-            "start": 1,
+            "end": 43,
+            "start": 0,
             "isWebp": false,
             "preload": false,
             "unload": true,
