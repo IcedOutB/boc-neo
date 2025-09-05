@@ -1,0 +1,216 @@
+{
+  "frames": {
+    "0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 284,
+        "h": 254
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 74,
+        "y": 48,
+        "w": 284,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 410,
+        "h": 308
+      }
+    },
+    "1": {
+      "frame": {
+        "x": 0,
+        "y": 255,
+        "w": 284,
+        "h": 261
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 74,
+        "y": 41,
+        "w": 284,
+        "h": 261
+      },
+      "sourceSize": {
+        "w": 410,
+        "h": 308
+      }
+    },
+    "2": {
+      "frame": {
+        "x": 285,
+        "y": 0,
+        "w": 284,
+        "h": 261
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 74,
+        "y": 41,
+        "w": 261,
+        "h": 284
+      },
+      "sourceSize": {
+        "w": 410,
+        "h": 308
+      }
+    },
+    "3": {
+      "frame": {
+        "x": 0,
+        "y": 517,
+        "w": 284,
+        "h": 258
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 74,
+        "y": 44,
+        "w": 284,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 410,
+        "h": 308
+      }
+    },
+    "4": {
+      "frame": {
+        "x": 285,
+        "y": 285,
+        "w": 284,
+        "h": 253
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 74,
+        "y": 49,
+        "w": 253,
+        "h": 284
+      },
+      "sourceSize": {
+        "w": 410,
+        "h": 308
+      }
+    },
+    "5": {
+      "frame": {
+        "x": 547,
+        "y": 0,
+        "w": 284,
+        "h": 257
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 74,
+        "y": 45,
+        "w": 257,
+        "h": 284
+      },
+      "sourceSize": {
+        "w": 410,
+        "h": 308
+      }
+    },
+    "6": {
+      "frame": {
+        "x": 539,
+        "y": 285,
+        "w": 284,
+        "h": 253
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 74,
+        "y": 49,
+        "w": 253,
+        "h": 284
+      },
+      "sourceSize": {
+        "w": 410,
+        "h": 308
+      }
+    },
+    "7": {
+      "frame": {
+        "x": 0,
+        "y": 776,
+        "w": 284,
+        "h": 260
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 74,
+        "y": 42,
+        "w": 284,
+        "h": 260
+      },
+      "sourceSize": {
+        "w": 410,
+        "h": 308
+      }
+    },
+    "8": {
+      "frame": {
+        "x": 285,
+        "y": 570,
+        "w": 283,
+        "h": 253
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 75,
+        "y": 49,
+        "w": 253,
+        "h": 283
+      },
+      "sourceSize": {
+        "w": 410,
+        "h": 308
+      }
+    },
+    "9": {
+      "frame": {
+        "x": 539,
+        "y": 570,
+        "w": 284,
+        "h": 261
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 74,
+        "y": 41,
+        "w": 261,
+        "h": 284
+      },
+      "sourceSize": {
+        "w": 410,
+        "h": 308
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "jumpAnimationBday.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 804,
+      "h": 1036
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}
