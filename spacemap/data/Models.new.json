@@ -16,7 +16,7 @@
   },
   "equipment": {
     "hangar": {
-      "dockbg": ["equipment/hangar/dockbgvru", 0, 0, false, true, true, true]
+      "dockbg": ["equipment/hangar/dockbg", 0, 0, false, true, true, true]
     },
     "weapon": {
       "laser": {
