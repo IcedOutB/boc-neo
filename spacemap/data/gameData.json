@@ -114,7 +114,7 @@
     "113": { "cbsModule": true, "engineClass": 9999, "drawInfo": false, "showOnMinimap": false, "allowHover": false, "laserClass": 9999, "offsetId": 35, "canBeLocked": false, "visualExpansions": [306] },
     "114": { "engineClass": 9999, "laserClass": 9999, "offsetId": 34, "clickRadius": 70 },
     "115": { "engineClass": 11, "laserClass": "g_champ_country", "offsetId": 1, "clickRadius": 70 },
-    "116": { "engineClass": 1, "laserClass": 1, "offsetId": 1, "clickRadius": 70 },
+    "116": { "engineClass": 11, "laserClass": "g_champ_country", "offsetId": 1, "clickRadius": 70 },
     "117": { "engineClass": 9999, "laserClass": 9999, "offsetId": 17, "clickRadius": 70 },
     "118": { "overrideId": 6, "engineClass": 9999, "laserClass": 9999, "offsetId": 26, "clickRadius": 70, "isSpinny": true, "spinTime": 1500 },
     "119": { "engineClass": 11, "laserClass": "g_champ_country", "offsetId": 1, "clickRadius": 70 },
