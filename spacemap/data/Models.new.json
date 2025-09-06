@@ -4360,83 +4360,90 @@
     },
     "minimap": {
         "dots": {
-            "pal": {
-                "path": "minimap/pal",
-                "end": 0,
-                "start": 0,
-                "isWebp": false,
-                "preload": true,
-                "unload": true,
-                "isSingleFile": false,
-                "customExtension": null,
-                "useAtlas": false
-            },
-            "cbswar": {
-                "path": "minimap/cbswar",
-                "end": 0,
-                "start": 0,
-                "isWebp": false,
-                "preload": true,
-                "unload": true,
-                "isSingleFile": false,
-                "customExtension": null,
-                "useAtlas": false
-            },
-            "cbsdead": {
-                "path": "minimap/cbsdead",
-                "end": 0,
-                "start": 0,
-                "isWebp": false,
-                "preload": true,
-                "unload": true,
-                "isSingleFile": false,
-                "customExtension": null,
-                "useAtlas": false
-            },
-            "cbsfaction": {
-                "path": "minimap/cbsfaction",
-                "end": 0,
-                "start": 0,
-                "isWebp": false,
-                "preload": true,
-                "unload": true,
-                "isSingleFile": false,
-                "customExtension": null,
-                "useAtlas": false
-            },
-            "cbsnoAttack": {
-                "path": "minimap/cbsnap",
-                "end": 0,
-                "start": 0,
-                "isWebp": false,
-                "preload": true,
-                "unload": true,
-                "isSingleFile": false,
-                "customExtension": null,
-                "useAtlas": false
-            },
-            "cbsalliance": {
-                "path": "minimap/cbsally",
-                "end": 0,
-                "start": 0,
-                "isWebp": false,
-                "preload": true,
-                "unload": true,
-                "isSingleFile": false,
-                "customExtension": null,
-                "useAtlas": false
-            },
-            "beaconPassive": {
-                "path": "minimap/beaconPassive",
-                "end": 0,
-                "start": 0,
-                "isWebp": false,
-                "preload": true,
-                "unload": true,
-                "isSingleFile": false,
-                "customExtension": null,
-                "useAtlas": false
-            }
+        "pal": {
+            "path": "minimap/pal",
+            "end": 0,
+            "start": 0,
+            "isWebp": false,
+            "preload": true,
+            "unload": false,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false,
+            "holdImage": true
+        },
+        "cbswar": {
+            "path": "minimap/cbswar",
+            "end": 0,
+            "start": 0,
+            "isWebp": false,
+            "preload": true,
+            "unload": false,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false,
+            "holdImage": true
+        },
+        "cbsdead": {
+            "path": "minimap/cbsdead",
+            "end": 0,
+            "start": 0,
+            "isWebp": false,
+            "preload": true,
+            "unload": false,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false,
+            "holdImage": true
+        },
+        "cbsfaction": {
+            "path": "minimap/cbsfaction",
+            "end": 0,
+            "start": 0,
+            "isWebp": false,
+            "preload": true,
+            "unload": false,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false,
+            "holdImage": true
+        },
+        "cbsnoAttack": {
+            "path": "minimap/cbsnap",
+            "end": 0,
+            "start": 0,
+            "isWebp": false,
+            "preload": true,
+            "unload": false,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false,
+            "holdImage": true
+        },
+        "cbsalliance": {
+            "path": "minimap/cbsally",
+            "end": 0,
+            "start": 0,
+            "isWebp": false,
+            "preload": true,
+            "unload": false,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false,
+            "holdImage": true
+        },
+        "beaconPassive": {
+            "path": "minimap/beaconPassive",
+            "end": 0,
+            "start": 0,
+            "isWebp": false,
+            "preload": true,
+            "unload": false,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false,
+            "holdImage": true
+        }
         }
     },
     "minimapStation": {
