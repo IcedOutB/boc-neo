@@ -235,7 +235,7 @@
       { "x": 5, "y": -5 },
       { "x": 0, "y": -5 },
       { "x": 10, "y": -5 },
-      { "x": -2, "y": -8 }
+      { "x": 0, "y": -8 }
     ],
     "COLLECTABLES": {
       "22": { "beamOffset": 100 },
@@ -833,8 +833,8 @@
     "DRONE_SIMPLE_FONT": "12px sans-serif",
     "SKILL_VISUAL_FONT": "bold 10px CorpFontRegular",
     "USERNAME_FONT": "600 17px CorpFontRegular",
-    "TITLE_FONT": "normal 14px CorpFontRegular",
-    "TITLE_FONT_IMPORTANT": "bold 16px CorpFontRegular",
+    "TITLE_FONT": "normal 12px CorpFontRegular",
+    "TITLE_FONT_IMPORTANT": "bold 12px CorpFontRegular",
     "COLLECTION_FONT": "bold 20px CorpFontRegular",
     "SHIP_INFO_BORDER": 5,
     "HIT_FW": "bold",
