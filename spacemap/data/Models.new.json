@@ -8420,9 +8420,9 @@
             "useAtlas": false
         }
     },
-    "missileatomic": {
+    "missileneo": {
         "1": {
-            "path": "rockets/atomic1",
+            "path": "rockets/neo1",
             "end": 0,
             "start": 0,
             "isWebp": false,
@@ -8433,7 +8433,7 @@
             "useAtlas": false
         },
         "2": {
-            "path": "rockets/atomic2",
+            "path": "rockets/neo2",
             "end": 0,
             "start": 0,
             "isWebp": false,
@@ -8444,7 +8444,7 @@
             "useAtlas": false
         },
         "3": {
-            "path": "rockets/atomic3",
+            "path": "rockets/neo3",
             "end": 0,
             "start": 0,
             "isWebp": false,
@@ -8455,7 +8455,7 @@
             "useAtlas": false
         },
         "4": {
-            "path": "rockets/atomic4",
+            "path": "rockets/neo4",
             "end": 0,
             "start": 0,
             "isWebp": false,

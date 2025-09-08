@@ -325,17 +325,17 @@
             "hint": "ll_sett_hint",
             "options": [
               { "id": 1, "label": "classic", "val": "classic" },
-              { "id": 2, "label": "modern", "val": "modern" },
+              { "id": 2, "label": "neo", "val": "neo" },
               { "id": 3, "label": "invisible", "val": "invisible" }
             ]
           },
           {
             "name": "rockets",
             "isCheck": false,
-            "hint": "Set rockets to default or atomic style",
+            "hint": "Set rockets to default or neo style",
             "options": [
               { "id": 1, "label": "classic", "val": "classic" },
-              { "id": 2, "label": "Atomic", "val": "atomic" }
+              { "id": 2, "label": "neo", "val": "neo" }
             ]
           },
           {
