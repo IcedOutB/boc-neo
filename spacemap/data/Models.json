@@ -5729,197 +5729,197 @@
                 ]
             }
         },
-        "modern": {
+        "neo": {
             "std": {
                 "0": [
-                    "lasers/modern/laser0",
+                    "lasers/neo/laser0",
                     0,
                     0
                 ],
                 "1": [
-                    "lasers/modern/laser1",
+                    "lasers/neo/laser1",
                     0,
                     0
                 ],
                 "2": [
-                    "lasers/modern/laser2",
+                    "lasers/neo/laser2",
                     0,
                     0
                 ],
                 "3": [
-                    "lasers/modern/laser3",
+                    "lasers/neo/laser3",
                     0,
                     0
                 ],
                 "4": [
-                    "lasers/modern/laser4",
+                    "lasers/neo/laser4",
                     0,
                     0
                 ],
                 "5": [
-                    "lasers/modern/laser5",
+                    "lasers/neo/laser5",
                     0,
                     0
                 ],
                 "6": [
-                    "lasers/modern/laser6",
+                    "lasers/neo/laser6",
                     0,
                     0
                 ],
                 "7": [
-                    "lasers/modern/laser7",
+                    "lasers/neo/laser7",
                     0,
                     0
                 ],
                 "8": [
-                    "lasers/modern/laser8",
+                    "lasers/neo/laser8",
                     0,
                     0
                 ],
                 "beam0": [
-                    "lasers/modern/laser0Beam",
+                    "lasers/neo/laser0Beam",
                     0,
                     0
                 ],
                 "beam1": [
-                    "lasers/modern/laser1Beam",
+                    "lasers/neo/laser1Beam",
                     0,
                     0
                 ],
                 "beam2": [
-                    "lasers/modern/laser2Beam",
+                    "lasers/neo/laser2Beam",
                     0,
                     0
                 ],
                 "beam3": [
-                    "lasers/modern/laser3Beam",
+                    "lasers/neo/laser3Beam",
                     0,
                     0
                 ],
                 "beam4": [
-                    "lasers/modern/laser4Beam",
+                    "lasers/neo/laser4Beam",
                     0,
                     0
                 ],
                 "beam5": [
-                    "lasers/modern/laser5Beam",
+                    "lasers/neo/laser5Beam",
                     0,
                     0
                 ],
                 "beam6": [
-                    "lasers/modern/laser6Beam",
+                    "lasers/neo/laser6Beam",
                     0,
                     0
                 ],
                 "beam7": [
-                    "lasers/modern/laser7Beam",
+                    "lasers/neo/laser7Beam",
                     0,
                     0
                 ],
                 "beam8": [
-                    "lasers/modern/laser8Beam",
+                    "lasers/neo/laser8Beam",
                     0,
                     0
                 ],
                 "leech": [
-                    "lasers/modern/laserLeech",
+                    "lasers/neo/laserLeech",
                     0,
                     0
                 ]
             },
             "big": {
                 "0": [
-                    "lasers/modern/bigLaser0",
+                    "lasers/neo/bigLaser0",
                     0,
                     0
                 ],
                 "1": [
-                    "lasers/modern/bigLaser1",
+                    "lasers/neo/bigLaser1",
                     0,
                     0
                 ],
                 "2": [
-                    "lasers/modern/bigLaser2",
+                    "lasers/neo/bigLaser2",
                     0,
                     0
                 ],
                 "3": [
-                    "lasers/modern/bigLaser3",
+                    "lasers/neo/bigLaser3",
                     0,
                     0
                 ],
                 "4": [
-                    "lasers/modern/bigLaser4",
+                    "lasers/neo/bigLaser4",
                     0,
                     0
                 ],
                 "5": [
-                    "lasers/modern/bigLaser5",
+                    "lasers/neo/bigLaser5",
                     0,
                     0
                 ],
                 "6": [
-                    "lasers/modern/bigLaser6",
+                    "lasers/neo/bigLaser6",
                     0,
                     0
                 ],
                 "7": [
-                    "lasers/modern/bigLaser7",
+                    "lasers/neo/bigLaser7",
                     0,
                     0
                 ],
                 "8": [
-                    "lasers/modern/bigLaser8",
+                    "lasers/neo/bigLaser8",
                     0,
                     0
                 ],
                 "beam0": [
-                    "lasers/modern/bigLaser0Beam",
+                    "lasers/neo/bigLaser0Beam",
                     0,
                     0
                 ],
                 "beam1": [
-                    "lasers/modern/bigLaser1Beam",
+                    "lasers/neo/bigLaser1Beam",
                     0,
                     0
                 ],
                 "beam2": [
-                    "lasers/modern/bigLaser2Beam",
+                    "lasers/neo/bigLaser2Beam",
                     0,
                     0
                 ],
                 "beam3": [
-                    "lasers/modern/bigLaser3Beam",
+                    "lasers/neo/bigLaser3Beam",
                     0,
                     0
                 ],
                 "beam4": [
-                    "lasers/modern/bigLaser4Beam",
+                    "lasers/neo/bigLaser4Beam",
                     0,
                     0
                 ],
                 "beam5": [
-                    "lasers/modern/bigLaser5Beam",
+                    "lasers/neo/bigLaser5Beam",
                     0,
                     0
                 ],
                 "beam6": [
-                    "lasers/modern/bigLaser6Beam",
+                    "lasers/neo/bigLaser6Beam",
                     0,
                     0
                 ],
                 "beam7": [
-                    "lasers/modern/bigLaser7Beam",
+                    "lasers/neo/bigLaser7Beam",
                     0,
                     0
                 ],
                 "beam8": [
-                    "lasers/modern/bigLaser8Beam",
+                    "lasers/neo/bigLaser8Beam",
                     0,
                     0
                 ],
                 "leech": [
-                    "lasers/modern/laserLeech",
+                    "lasers/neo/laserLeech",
                     0,
                     0
                 ]

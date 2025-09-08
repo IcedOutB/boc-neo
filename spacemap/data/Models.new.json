@@ -9038,10 +9038,10 @@
                 }
             }
         },
-        "modern": {
+        "neo": {
             "std": {
                 "0": {
-                    "path": "lasers/modern/laser0",
+                    "path": "lasers/neo/laser0",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9052,7 +9052,7 @@
                     "useAtlas": false
                 },
                 "1": {
-                    "path": "lasers/modern/laser1",
+                    "path": "lasers/neo/laser1",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9063,7 +9063,7 @@
                     "useAtlas": false
                 },
                 "2": {
-                    "path": "lasers/modern/laser2",
+                    "path": "lasers/neo/laser2",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9074,7 +9074,7 @@
                     "useAtlas": false
                 },
                 "3": {
-                    "path": "lasers/modern/laser3",
+                    "path": "lasers/neo/laser3",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9085,7 +9085,7 @@
                     "useAtlas": false
                 },
                 "4": {
-                    "path": "lasers/modern/laser4",
+                    "path": "lasers/neo/laser4",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9096,7 +9096,7 @@
                     "useAtlas": false
                 },
                 "5": {
-                    "path": "lasers/modern/laser5",
+                    "path": "lasers/neo/laser5",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9107,7 +9107,7 @@
                     "useAtlas": false
                 },
                 "6": {
-                    "path": "lasers/modern/laser6",
+                    "path": "lasers/neo/laser6",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9118,7 +9118,7 @@
                     "useAtlas": false
                 },
                 "7": {
-                    "path": "lasers/modern/laser7",
+                    "path": "lasers/neo/laser7",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9129,7 +9129,7 @@
                     "useAtlas": false
                 },
                 "8": {
-                    "path": "lasers/modern/laser8",
+                    "path": "lasers/neo/laser8",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9140,7 +9140,7 @@
                     "useAtlas": false
                 },
                 "beam0": {
-                    "path": "lasers/modern/laser0Beam",
+                    "path": "lasers/neo/laser0Beam",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9151,7 +9151,7 @@
                     "useAtlas": false
                 },
                 "beam1": {
-                    "path": "lasers/modern/laser1Beam",
+                    "path": "lasers/neo/laser1Beam",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9162,7 +9162,7 @@
                     "useAtlas": false
                 },
                 "beam2": {
-                    "path": "lasers/modern/laser2Beam",
+                    "path": "lasers/neo/laser2Beam",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9173,7 +9173,7 @@
                     "useAtlas": false
                 },
                 "beam3": {
-                    "path": "lasers/modern/laser3Beam",
+                    "path": "lasers/neo/laser3Beam",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9184,7 +9184,7 @@
                     "useAtlas": false
                 },
                 "beam4": {
-                    "path": "lasers/modern/laser4Beam",
+                    "path": "lasers/neo/laser4Beam",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9195,7 +9195,7 @@
                     "useAtlas": false
                 },
                 "beam5": {
-                    "path": "lasers/modern/laser5Beam",
+                    "path": "lasers/neo/laser5Beam",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9206,7 +9206,7 @@
                     "useAtlas": false
                 },
                 "beam6": {
-                    "path": "lasers/modern/laser6Beam",
+                    "path": "lasers/neo/laser6Beam",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9217,7 +9217,7 @@
                     "useAtlas": false
                 },
                 "beam7": {
-                    "path": "lasers/modern/laser7Beam",
+                    "path": "lasers/neo/laser7Beam",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9228,7 +9228,7 @@
                     "useAtlas": false
                 },
                 "beam8": {
-                    "path": "lasers/modern/laser8Beam",
+                    "path": "lasers/neo/laser8Beam",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9239,7 +9239,7 @@
                     "useAtlas": false
                 },
                 "leech": {
-                    "path": "lasers/modern/laserLeech",
+                    "path": "lasers/neo/laserLeech",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9252,7 +9252,7 @@
             },
             "big": {
                 "0": {
-                    "path": "lasers/modern/bigLaser0",
+                    "path": "lasers/neo/bigLaser0",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9263,7 +9263,7 @@
                     "useAtlas": false
                 },
                 "1": {
-                    "path": "lasers/modern/bigLaser1",
+                    "path": "lasers/neo/bigLaser1",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9274,7 +9274,7 @@
                     "useAtlas": false
                 },
                 "2": {
-                    "path": "lasers/modern/bigLaser2",
+                    "path": "lasers/neo/bigLaser2",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9285,7 +9285,7 @@
                     "useAtlas": false
                 },
                 "3": {
-                    "path": "lasers/modern/bigLaser3",
+                    "path": "lasers/neo/bigLaser3",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9296,7 +9296,7 @@
                     "useAtlas": false
                 },
                 "4": {
-                    "path": "lasers/modern/bigLaser4",
+                    "path": "lasers/neo/bigLaser4",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9307,7 +9307,7 @@
                     "useAtlas": false
                 },
                 "5": {
-                    "path": "lasers/modern/bigLaser5",
+                    "path": "lasers/neo/bigLaser5",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9318,7 +9318,7 @@
                     "useAtlas": false
                 },
                 "6": {
-                    "path": "lasers/modern/bigLaser6",
+                    "path": "lasers/neo/bigLaser6",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9329,7 +9329,7 @@
                     "useAtlas": false
                 },
                 "7": {
-                    "path": "lasers/modern/bigLaser7",
+                    "path": "lasers/neo/bigLaser7",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9340,7 +9340,7 @@
                     "useAtlas": false
                 },
                 "8": {
-                    "path": "lasers/modern/bigLaser8",
+                    "path": "lasers/neo/bigLaser8",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9351,7 +9351,7 @@
                     "useAtlas": false
                 },
                 "beam0": {
-                    "path": "lasers/modern/bigLaser0Beam",
+                    "path": "lasers/neo/bigLaser0Beam",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9362,7 +9362,7 @@
                     "useAtlas": false
                 },
                 "beam1": {
-                    "path": "lasers/modern/bigLaser1Beam",
+                    "path": "lasers/neo/bigLaser1Beam",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9373,7 +9373,7 @@
                     "useAtlas": false
                 },
                 "beam2": {
-                    "path": "lasers/modern/bigLaser2Beam",
+                    "path": "lasers/neo/bigLaser2Beam",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9384,7 +9384,7 @@
                     "useAtlas": false
                 },
                 "beam3": {
-                    "path": "lasers/modern/bigLaser3Beam",
+                    "path": "lasers/neo/bigLaser3Beam",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9395,7 +9395,7 @@
                     "useAtlas": false
                 },
                 "beam4": {
-                    "path": "lasers/modern/bigLaser4Beam",
+                    "path": "lasers/neo/bigLaser4Beam",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9406,7 +9406,7 @@
                     "useAtlas": false
                 },
                 "beam5": {
-                    "path": "lasers/modern/bigLaser5Beam",
+                    "path": "lasers/neo/bigLaser5Beam",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9417,7 +9417,7 @@
                     "useAtlas": false
                 },
                 "beam6": {
-                    "path": "lasers/modern/bigLaser6Beam",
+                    "path": "lasers/neo/bigLaser6Beam",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9428,7 +9428,7 @@
                     "useAtlas": false
                 },
                 "beam7": {
-                    "path": "lasers/modern/bigLaser7Beam",
+                    "path": "lasers/neo/bigLaser7Beam",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9439,7 +9439,7 @@
                     "useAtlas": false
                 },
                 "beam8": {
-                    "path": "lasers/modern/bigLaser8Beam",
+                    "path": "lasers/neo/bigLaser8Beam",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
@@ -9450,7 +9450,7 @@
                     "useAtlas": false
                 },
                 "leech": {
-                    "path": "lasers/modern/laserLeech",
+                    "path": "lasers/neo/laserLeech",
                     "end": 0,
                     "start": 0,
                     "isWebp": false,
